@@ -19,8 +19,6 @@ sidebar_label: Getting started
 </figure>
 </div>
 
-test
-
 <!-- ### Contents:
 
 ### 1. [Safety and Other Important Notices](/safety-and-other-important-notices)
