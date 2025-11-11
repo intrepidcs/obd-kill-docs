@@ -1,0 +1,1 @@
+(self.webpackChunkobd_kill=self.webpackChunkobd_kill||[]).push([[918],{5741:()=>{},8974:(k,l,s)=>{"use strict";s.d(l,{A:()=>b});var e=s(8291);const b=e}}]);
